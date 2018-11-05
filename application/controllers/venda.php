@@ -21,6 +21,11 @@ class venda extends CI_Controller {
 	{
 		$this->load->view('cad_venda');
 	}
+
+	public function adicionarvenda()
+	{
+		$this->load->view('add_venda');
+	}
 	
 }
 
