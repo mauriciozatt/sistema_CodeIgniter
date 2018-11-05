@@ -62,7 +62,8 @@ if ($nivel=='0') {
                                         <tr>
                                             <th>Codigo</th>
                                             <th>Nome</th>                                            
-                                            <th>Valor</th>                                            
+                                            <th>Valor</th>  
+                                            <th>Opções</th>                                          
                                         </tr>
                                     </thead>
                                     <tbody>

@@ -67,7 +67,8 @@ if ($nivel=='0') {
                                             <th>Placa</th>                                            
                                              <th>Ano</th>
                                               <th>Modelo</th>
-                                              <th>Cliente</th>                                                                                                                                                                                 
+                                              <th>Cliente</th>   
+                                              <th>Opções</th>                                                                                                                                                                              
                                         </tr>
                                     </thead>
                                     <tbody>

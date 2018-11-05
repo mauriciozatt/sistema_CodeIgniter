@@ -67,6 +67,7 @@ if ($nivel=='0') {
                                             <th>Nome</th>                                            
                                              <th>Estado</th>
                                              <th>Uf</th>
+                                             <th>Opções</th>
                                         </tr>
                                     </thead>
                                     <tbody>

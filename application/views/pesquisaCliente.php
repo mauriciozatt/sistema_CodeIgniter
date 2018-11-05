@@ -69,6 +69,7 @@ if ($nivel=='0') {
                                             <th>Logradouro</th>  
                                             <th>Cpf</th>  
                                             <th>Data de Nascimento</th>  
+                                            <th>Opções</th>
                                         </tr>
                                     </thead>
                                     <tbody>
