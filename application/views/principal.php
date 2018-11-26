@@ -59,10 +59,10 @@ include "conecta.php";
 
     <table class="table table-action" border="4">
    <tr>
-  <td width="350" height="440" ><a href="<?php echo site_url("chamar/telacadastros")?>"><img src="<?php echo base_url('img/cadastros.png');?>"width="100%" height="440" disabled> </a> </td>
-	<td width="350" height="440" ><a href="<?php echo site_url("chamar/telapesquisas")?>"><img src="<?php echo base_url('img/pesquisas.png');?>"width="100%" height="440" disabled> </a> </td>
-	<td width="350" height="440" ><a href="<?php echo site_url("chamar/telarelatorios")?>"><img src="<?php echo base_url('img/relatorios.png');?>"width="100%" height="440" disabled> </a> </td>
-  <td width="350" height="440" ><a href="<?php echo site_url("venda/cadastrovendas")?>"><img src="<?php echo base_url('img/relatorios.png');?>"width="100%" height="440" disabled> </a> </td>
+  <td width="350" height="440" ><a href="<?php echo site_url("chamar/telacadastros")?>"><img src="<?php echo base_url('img/cad.png');?>"width="100%" height="440" disabled> </a> </td>
+	<td width="350" height="440" ><a href="<?php echo site_url("chamar/telapesquisas")?>"><img src="<?php echo base_url('img/pesq.png');?>"width="100%" height="440" disabled> </a> </td>
+	<td width="350" height="440" ><a href="<?php echo site_url("chamar/telarelatorios")?>"><img src="<?php echo base_url('img/rel.png');?>"width="100%" height="440" disabled> </a> </td>
+  <td width="350" height="440" ><a href="<?php echo site_url("venda/cadastrovendas")?>"><img src="<?php echo base_url('img/vendas.png');?>"width="100%" height="440" disabled> </a> </td>
    </tr>
    <tr>
     <td><center> <h3 class="cordafonte"> Cadastros</h3></center> </td>

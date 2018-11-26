@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Sistema de Gerenciamento Reafrio</title>
+    <title>Sistema de Vendas do Mauricio</title>
 <link rel="icon" href="<?php echo base_url('img/logo.png');?>" type="image/x-icon">
        
        <?php
